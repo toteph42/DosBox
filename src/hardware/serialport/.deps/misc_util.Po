@@ -1,0 +1,5 @@
+misc_util.o: misc_util.cpp ../../../config.h ../../../include/toteph42.h
+
+../../../config.h:
+
+../../../include/toteph42.h:
